@@ -53,6 +53,7 @@ them:
 - [noscl](https://github.com/fiatjaf/noscl) - a basic command-line client written in Go
 - [loquaz](https://github.com/emeceve/loquaz) - a desktop app written in Rust for direct encrypted chat
 - [nostr console](https://github.com/vishalxl/nostr_console) - a nostr command line client written in Dart. Binaries available for Windows, Linux and MacOS.
+- [second exchange](https://github.com/cynsar-foundation/second.exchange) - an experiment to work out something of medium , something of creator economy and most importantly engaging in governance related resolution
 
 ## Libraries
 - [NNostr.Client](https://github.com/Kukks/NNostr) - a C# Nostr library for use by clients
